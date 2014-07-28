@@ -1,7 +1,7 @@
 Not Awesome Perl
 ================
 
-A list of places where Perl is nowhere to be found in a list of other supported languages or libraries. Anti-inspirted by [awesome-perl](https://github.com/hachiojipm/awesome-perl) and all of the other awesomeness on Github.
+A list of places where Perl is nowhere to be found in a list of other supported languages or libraries. Anti-inspired by [awesome-perl](https://github.com/hachiojipm/awesome-perl) and all of the other awesomeness on Github.
 
 ## Platform as a Service (PaaS) providers
 
